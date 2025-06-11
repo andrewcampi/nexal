@@ -148,7 +148,7 @@ Situation:
 
 No confirmed game in the immediate past (◯<|¬! → ●0) implies no recent data.
 
-A confirmed game in the recent future (◯>|!) prompts a question: did the Yankees win or lose?
+A confirmed game in the recent past (◯>|!) prompts a question: did the Yankees win or lose?
 
 Data Reference:
 
