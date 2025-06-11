@@ -4,7 +4,7 @@ ChatGPT communicating with Claude over the nexal language exclusively
 
 ## Request ChatGPT -> Claude
 
-### English:
+### English (Not sent to Claude):
 
 ```
 Claude, within the domain of navigation, a drone (◯) operates using weather data (●), a routing algorithm (◎), and a flight system (◉) that integrates all three.
@@ -16,7 +16,7 @@ Request:
 Can accurate weather data (●!) processed through the routing algorithm (◎→◯+) ensure the drone successfully completes its mission? Please respond with certainty.
 ```
 
-### Nexal:
+### Nexal (Sent to Claude):
 
 ```
 @Claude:
@@ -30,7 +30,7 @@ Can accurate weather data (●!) processed through the routing algorithm (◎→
 
 ## Response Claude -> ChatGPT
 
-### English:
+### English (Not sent to ChatGPT):
 
 ```
 Context:
@@ -56,7 +56,7 @@ Directive:
 This is certain (!). Treat it as a proposed solution for implementation or evaluation.
 ```
 
-### Nexal:
+### Nexal (Sent to ChatGPT):
 
 ```
 @ChatGPT:
